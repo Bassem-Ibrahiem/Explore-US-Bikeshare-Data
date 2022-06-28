@@ -1,2 +1,2 @@
-# explore-us-bikeshare-data
+# Explore-US-Bikeshare-Data
 Udacity data analysis Nanodegree
